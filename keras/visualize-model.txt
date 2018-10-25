@@ -1,0 +1,4 @@
+```
+conda install pydot #https://keras-cn.readthedocs.io/en/latest/other/visualization/
+sudo apt install graphviz
+```
