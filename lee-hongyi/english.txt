@@ -1,0 +1,6 @@
+Coxo1214
+yr-f@yrfoutlook.onmicrosoft.com
+infinitely differentiable:任意阶可微
+Taylor Series:泰勒级数
+K-derivation:k 阶导数
+saddle point:鞍点
