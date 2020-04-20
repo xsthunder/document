@@ -3,6 +3,7 @@
 2. http://nodejs.cn/download/  下载对应版本，`wget <连接>`
 3. 解压`tar -xvf <下载的压缩包>   `
 4. 输入`mv node-v6.10.0-linux-x64  nodejs `
+5. `cd nodejs`
 5. 输入`echo export PATH=\"$(pwd)/nodejs/bin:\$PATH\" >>.bashrc`
 6. 重启终端
 
