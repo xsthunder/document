@@ -6,7 +6,7 @@
 5. `cd nodejs`
 5. 输入`echo export PATH=\"$(pwd)/nodejs/bin:\$PATH\" >>.bashrc`
 6. 重启终端
-7. 还原并安装yarn[init-npm.sh at master · xsthunder/linux-setting](https://github.com/xsthunder/linux-setting/blob/master/bash-script/init-npm.sh)
+7. npm换并安装yarn [init-npm.sh at master · xsthunder/linux-setting](https://github.com/xsthunder/linux-setting/blob/master/bash-script/init-npm.sh)
 
 ## linux后台运行程序
 1. screen -R host 创建一个新的tty
