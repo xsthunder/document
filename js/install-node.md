@@ -4,7 +4,7 @@
 3. 解压`tar -xvf <下载的压缩包>   `
 4. 输入`mv node-v6.10.0-linux-x64  nodejs `
 5. `cd nodejs`
-5. 输入`echo export PATH=\"$(pwd)/nodejs/bin:\$PATH\" >>~/.bashrc`
+5. 输入`echo export PATH=\"$(pwd)/bin:\$PATH\" >>~/.bashrc`
 6. 重启终端（关闭ssh，重新链接)
 7. npm换源并安装yarn(npm是node自带的) [init-npm.sh at master · xsthunder/linux-setting](https://github.com/xsthunder/linux-setting/blob/master/bash-script/init-npm.sh)
 
